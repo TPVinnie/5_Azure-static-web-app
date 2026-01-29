@@ -1,4 +1,4 @@
-# CICD app for MLOps Project V1
+# CI/CD app for MLOps Project V1
 
 ## Project setup
 ```
