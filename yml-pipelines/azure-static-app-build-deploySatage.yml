@@ -3,11 +3,11 @@ name: Azure Static Web Apps CI/CD
 pr:
   branches:
     include:
-      - master
+      - main
 trigger:
   branches:
     include:
-      - master
+      - main
 
 stages:
 - stage: Build
