@@ -1,7 +1,7 @@
 <template>
   <div id="app">
 
-    <h1>❤️ Welcome to the World of AI/ML Deployment 😍</h1>
+    <h1>❤️ Welcome to the World of AI/ML Deployment ❤️</h1>
 	<h2>Upload your data to get AI predictions</h2>
     <img
       alt="Vue logo"
